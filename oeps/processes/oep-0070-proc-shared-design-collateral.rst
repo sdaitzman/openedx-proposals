@@ -67,18 +67,11 @@ This created three recurring problems:
    no history of decisions to build on, making community onboarding very
    difficult.
 
-The shared Open edX Figma instance now provides that source of truth, with
+The shared Open edX Figma instance will provide that source of truth, with
 resources across nearly all platform areas and modern, reusable file structures
-aligned to Paragon. However, **adoption is now the central risk to future Open
-edX community shared/open design efforts.** Strong in-person interest has not
-translated into active use of the shared instance, and some active
-contributions have built on openly shared components without contributing their
-new files back or making them available for open reuse.
-
-Without a community-wide norm, a single provider effectively becomes the only
-party keeping the files current, which is not sustainable. Codifying a
-contribution expectation is the most direct lever to secure the long-term value
-of the shared instance.
+aligned to Paragon. An expectation of continual contribution to this shared instance,
+from all parties working on design collateral, mirrors the norms that the project
+already has around code contributions.
 
 Specification
 *************
