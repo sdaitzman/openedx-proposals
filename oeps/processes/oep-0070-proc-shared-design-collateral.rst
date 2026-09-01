@@ -54,8 +54,8 @@ contributing them is strongly encouraged.
 Motivation
 **********
 
-Historically, the Open edX project has had no shared source of truth for design resources.
-This created three recurring problems:
+Historically, the Open edX project has had no shared source of truth for design
+resources. This created four recurring problems:
 
 #. **Duplicated, siloed work.** Every provider with design capacity maintained
    separate, out-of-date versions of designs, and teams regularly recreated
@@ -66,6 +66,9 @@ This created three recurring problems:
 #. **High onboarding cost.** New design contributors had nowhere to start and
    no history of decisions to build on, making community onboarding very
    difficult.
+#. **Divergence from standards.** Designs built from scratch, potentially with
+   custom Figma components that diverge from Paragon over time, can compromise
+   accessibility, internationalization, and other important standards.
 
 The shared Open edX Figma instance will provide that source of truth, with
 resources across nearly all platform areas and modern, reusable file structures
