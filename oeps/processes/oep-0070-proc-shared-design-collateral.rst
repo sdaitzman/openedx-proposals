@@ -127,7 +127,9 @@ Rationale
   intentional decisions from accidents, reducing guesswork and rework.
 - **Reduced duplication.** Shared, reusable atoms, molecules, and full views
   cut redundant design spend across providers.
- - **Adherence to standards.** Ensuring that all designs use the same, reusable elements across the platform enables all components to natively follow accessibility, internationalization, and other standards.
+- **Adherence to standards.** Ensuring that all designs use the same, reusable
+  elements across the platform enables all components to natively follow
+  accessibility, internationalization, and other standards.
 
 Open Questions
 **************
