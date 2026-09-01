@@ -122,6 +122,7 @@ where new violations are disallowed while pre-existing ones are forgiven.
 Rationale
 *********
 
+- **Open-source as a priority.** The Open edX project is licensed under open-source licenses. Open-source means making software code public so anyone can view, use, modify, and share it. Making our design collateral similarly open-source enables community innovation on the same scale as the code itself.
 - **Proven model.** Code contributors already benefit from a shared source of
   truth, versioning, parallel work, central issue tracking, and a shared doc
   site (Paragon). Extending the same practices to design is a natural, low-risk
