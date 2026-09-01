@@ -94,11 +94,14 @@ Specification
    the community (viewable and exportable, under an open license) so that
    anyone can reference or build on them, including for open-format export and
    agentic prototyping.
-#. **Workflow parity with code.** Contributions happen in branches within the
-   shared instance. Design maintainers review work-in-progress and provide
-   feedback before it is merged into the live product-area files, mirroring the
-   code-maintainer model. Design files for each named release, frozen at the time of release cut, will be published to the Figma
-   Community as part of the release (Build-Test-Release, or BTR) process.
+#. **Workflow parity with code.** Contributions happen in `Figma branches
+   <https://openedx.atlassian.net/wiki/x/AYAOeAE>`_
+   within the shared instance. Design maintainers review work-in-progress and
+   provide feedback before it is merged into the live product-area files,
+   mirroring the code-maintainer model. Design files for each named release,
+   frozen at the time of release cut, will be published to the Figma Community
+   as part of the release (Build-Test-Release, or BTR) process, so that any
+   consumer can point at a stable, versioned library for a given release.
 #. **Roles.** Each proposal and contribution stream has identified Author(s)
    and an Arbiter, plus Design Maintainers (analogous to code maintainers)
    responsible for reviewing and merging contributions.
