@@ -11,11 +11,11 @@ OEP-70: Shared Design Collateral Contribution Requirements
    * - Title
      - Shared Design Collateral Contribution Requirements
    * - Last Modified
-     - 2026-07-27
+     - 2026-09-01
    * - Authors
      - Sam Daitzman <sam.daitzman@schema.education>
    * - Arbiter
-     - TBD (Needs an arbiter)
+     - Sarina Canelake <sarina@axim.org>
    * - Status
      - Draft
    * - Type
