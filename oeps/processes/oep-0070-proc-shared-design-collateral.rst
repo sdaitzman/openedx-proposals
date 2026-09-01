@@ -105,10 +105,6 @@ Specification
 #. **Roles.** Each proposal and contribution stream has identified Author(s)
    and an Arbiter, plus Design Maintainers (analogous to code maintainers)
    responsible for reviewing and merging contributions.
-#. **Communication and relay.** This expectation is relayed to current and
-   future contribution owners and providers, and at minimum current
-   contribution owners are asked to return files they worked on to the shared
-   instance.
 
 Backward Compatibility
 **********************
